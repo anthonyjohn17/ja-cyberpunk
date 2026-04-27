@@ -125,7 +125,6 @@ Marketing Mix Modeling
 
 ## 📫 Let's Connect
 
-- **Portfolio:** [ananttripathiak.github.io/ananttripathiak](https://ananttripathiak.github.io/ananttripathiak/)
 - **LinkedIn:** [linkedin.com/in/ja717](https://www.linkedin.com/in/ja717/)
 - **GitHub:** [github.com/anthonyjohn17](https://github.com/anthonyjohn17)
 - **Email:** [anthony.john42@gmail.com](mailto:anthony.john42@gmail.com)
@@ -138,6 +137,6 @@ Marketing Mix Modeling
 
 **Transforming Data into Intelligence**
 
-*Last updated: January 2026*
+*Last updated: April 2026*
 
 </div>
