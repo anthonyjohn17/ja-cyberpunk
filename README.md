@@ -7,7 +7,7 @@
 *AI-Native Product Strategy | Multi-Agent Orchestration | SAP Business AI | RAG & LLM Systems | Context Engineering*
 <! -- *Building scalable AI systems that drive measurable business impact* --->
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Live-00f0ff?style=for-the-badge&logo=googlechrome&logoColor=white)](https://ananttripathiak.github.io/ananttripathiak/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Live-00f0ff?style=for-the-badge&logo=googlechrome&logoColor=white)](https://anthonyjohn17.github.io/ja-cyberpunk/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ja717/)
 [![Email](https://img.shields.io/badge/Email-Reach%20Out-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anthony.john42@gmail.com)
 
